@@ -44,10 +44,6 @@
     border: 1px solid black;
 }
 
-.search {
-    padding: 10px;
-}
-
 .res-logo{
     width: 99%;
     height: 40%;
@@ -57,6 +53,14 @@
     margin: 13px;
     display: flex;
     flex-wrap: wrap;
+}
+
+.filter-btn{
+    margin-left: 10px;
+}
+
+.search-btn{
+    margin-left: 2px;
 }
 
 .shimmer-container{
